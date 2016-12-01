@@ -1,0 +1,1 @@
+-novid -nojoy -tickrate 128 -full -w 1280 -h 720 -freq 146 -threads 4 -noforcemaccel -noforcemparms -noforcemspd +exec autoexec +cl_forcepreload 1
