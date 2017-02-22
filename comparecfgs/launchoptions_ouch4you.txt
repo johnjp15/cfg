@@ -1,1 +1,1 @@
--novid -nojoy -w 800 -h 600 -full -tickrate 128  -freq 144 -noforcemaccel -noforcemparms -noforcemspd +exec autoexec +cl_forcepreload 1
+-novid -nojoy -w 1024 -h 768 -full -tickrate 128  -freq 144 -noforcemaccel -noforcemparms -noforcemspd +exec autoexec +cl_forcepreload 1
