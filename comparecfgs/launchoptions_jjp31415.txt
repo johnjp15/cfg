@@ -1,1 +1,1 @@
--novid -nojoy -full -w 1920 -h 1080 -freq 144 +exec autoexec +cl_forcepreload 1
+-novid -nojoy -full -w 1024 -h 768 -freq 144 +exec autoexec +cl_forcepreload 1
