@@ -6,68 +6,68 @@
 		{ name = "cash"					entity = "item_cash"								default_ammo = 1	security_door_value = 0		highlight_color = [0, 255, 0]	},
 
 		// melee
-		{ name = "knife"				entity = "weapon_knife"								default_ammo = -1	security_door_value = 5 	highlight_color = [210, 0, 255]	},
-		{ name = "axe"					entity = "weapon_axe"								default_ammo = -1	security_door_value = 5 	highlight_color = [210, 0, 255]	},
-		{ name = "hammer"				entity = "weapon_hammer"							default_ammo = -1	security_door_value = 5 	highlight_color = [210, 0, 255]	},
-		{ name = "spanner"				entity = "weapon_spanner"							default_ammo = -1	security_door_value = 5 	highlight_color = [210, 0, 255]	},
+		{ name = "knife"				entity = "weapon_knife"								default_ammo = -1	security_door_value = 1 	highlight_color = [210, 0, 255]	},
+		{ name = "axe"					entity = "weapon_axe"								default_ammo = -1	security_door_value = 1 	highlight_color = [210, 0, 255]	},
+		{ name = "hammer"				entity = "weapon_hammer"							default_ammo = -1	security_door_value = 1 	highlight_color = [210, 0, 255]	},
+		{ name = "spanner"				entity = "weapon_spanner"							default_ammo = -1	security_door_value = 1 	highlight_color = [210, 0, 255]	},
 
 		// utilities
 		{ name = "weapon_flashbang"		entity = "weapon_flashbang"							default_ammo = -1	security_door_value = 1 	highlight_color = [0, 220, 255]	},
 		{ name = "weapon_smokegrenade"	entity = "weapon_smokegrenade"						default_ammo = -1	security_door_value = 1 	highlight_color = [0, 220, 255]	},
 		{ name = "weapon_diversion"		entity = "weapon_diversion"							default_ammo = -1	security_door_value = 1 	highlight_color = [0, 220, 255]	},
 		{ name = "weapon_firebomb"		entity = "weapon_firebomb"							default_ammo = -1	security_door_value = 5 	highlight_color = [255, 130, 0]	},
-		{ name = "weapon_breachcharge"	entity = "weapon_breachcharge"						default_ammo = 3 	security_door_value = 10	highlight_color = [255, 130, 0]	},
-		{ name = "weapon_c4"			entity = "weapon_c4"								default_ammo = -1	security_door_value = 10	highlight_color = [255, 130, 0]	},
+		{ name = "weapon_breachcharge"	entity = "weapon_breachcharge"						default_ammo = 3 	security_door_value = 5		highlight_color = [255, 130, 0]	},
+		{ name = "weapon_c4"			entity = "weapon_c4"								default_ammo = -1	security_door_value = 5		highlight_color = [255, 130, 0]	},
 		{ name = "weapon_frag_grenade"	entity = "weapon_frag_grenade"						default_ammo = -1	security_door_value = 5 	highlight_color = [255, 130, 0]	},
 		{ name = "parachute"			entity = "prop_weapon_upgrade_chute"				default_ammo = -1	security_door_value = 0		highlight_color = [0, 220, 255]	},
-		{ name = "weapon_taser"			entity = "weapon_taser"								default_ammo = -1	security_door_value = 10	highlight_color = [255, 0, 0]	},
+		{ name = "weapon_taser"			entity = "weapon_taser"								default_ammo = -1	security_door_value = 5		highlight_color = [255, 0, 0]	},
 
 		// pistols
-		{ name = "weapon_fiveseven"		entity = "weapon_fiveseven"							default_ammo = 6 	security_door_value = 10	highlight_color = [255, 0, 0]	},
+		{ name = "weapon_fiveseven"		entity = "weapon_fiveseven"							default_ammo = 6 	security_door_value = 5		highlight_color = [255, 0, 0]	},
 		{ name = "weapon_glock"			entity = "weapon_glock"								default_ammo = 7	security_door_value = 0 	highlight_color = [255, 0, 0]	},
 		{ name = "weapon_hkp2000"		entity = "weapon_hkp2000"							default_ammo = 7	security_door_value = 0 	highlight_color = [255, 0, 0]	},
-		{ name = "weapon_cz75a"			entity = "weapon_cz75a"								default_ammo = 8 	security_door_value = 10	highlight_color = [255, 0, 0]	},
-		{ name = "weapon_p250"			entity = "weapon_p250"								default_ammo = 8	security_door_value = 10	highlight_color = [255, 0, 0]	},
-		{ name = "weapon_tec9"			entity = "weapon_tec9"								default_ammo = 8	security_door_value = 10	highlight_color = [255, 0, 0]	},
-		{ name = "weapon_usp_silencer"	entity = "weapon_usp_silencer"						default_ammo = 8 	security_door_value = 10	highlight_color = [255, 0, 0]	},
-		{ name = "weapon_elite"			entity = "weapon_elite"								default_ammo = 8 	security_door_value = 10	highlight_color = [255, 0, 0]	},
+		{ name = "weapon_cz75a"			entity = "weapon_cz75a"								default_ammo = 8 	security_door_value = 5		highlight_color = [255, 0, 0]	},
+		{ name = "weapon_p250"			entity = "weapon_p250"								default_ammo = 8	security_door_value = 5		highlight_color = [255, 0, 0]	},
+		{ name = "weapon_tec9"			entity = "weapon_tec9"								default_ammo = 8	security_door_value = 5		highlight_color = [255, 0, 0]	},
+		{ name = "weapon_usp_silencer"	entity = "weapon_usp_silencer"						default_ammo = 8 	security_door_value = 5		highlight_color = [255, 0, 0]	},
+		{ name = "weapon_elite"			entity = "weapon_elite"								default_ammo = 8 	security_door_value = 5		highlight_color = [255, 0, 0]	},
 
 		// heavy pistols
 		{ name = "weapon_deagle"		entity = "weapon_deagle"							default_ammo = 7	security_door_value = 20	highlight_color = [255, 0, 0]	},
-		{ name = "weapon_revolver"		entity = "weapon_revolver"							default_ammo = 4	security_door_value = 50	highlight_color = [255, 0, 0]	},
+		{ name = "weapon_revolver"		entity = "weapon_revolver"							default_ammo = 4	security_door_value = 30	highlight_color = [255, 0, 0]	},
 
 		// SMGs
-		{ name = "weapon_mac10"			entity = "weapon_mac10"								default_ammo = 20	security_door_value = 15	highlight_color = [255, 0, 0]	},
-		{ name = "weapon_bizon"			entity = "weapon_bizon"								default_ammo = 18	security_door_value = 15	highlight_color = [255, 0, 0]	},
-		{ name = "weapon_mp7"			entity = "weapon_mp7"								default_ammo = 24	security_door_value = 20	highlight_color = [255, 0, 0]	},
-		{ name = "weapon_mp9"			entity = "weapon_mp9"								default_ammo = 24	security_door_value = 20	highlight_color = [255, 0, 0]	},
-		{ name = "weapon_ump45"			entity = "weapon_ump45"								default_ammo = 16	security_door_value = 20	highlight_color = [255, 0, 0]	},
-		{ name = "weapon_p90"			entity = "weapon_p90"								default_ammo = 16	security_door_value = 20	highlight_color = [255, 0, 0]	},
-		{ name = "weapon_mp5sd"			entity = "weapon_mp5sd"								default_ammo = 22	security_door_value = 20	highlight_color = [255, 0, 0]	},
+		{ name = "weapon_mac10"			entity = "weapon_mac10"								default_ammo = 20	security_door_value = 10	highlight_color = [255, 0, 0]	},
+		{ name = "weapon_bizon"			entity = "weapon_bizon"								default_ammo = 18	security_door_value = 10	highlight_color = [255, 0, 0]	},
+		{ name = "weapon_mp7"			entity = "weapon_mp7"								default_ammo = 24	security_door_value = 15	highlight_color = [255, 0, 0]	},
+		{ name = "weapon_mp9"			entity = "weapon_mp9"								default_ammo = 24	security_door_value = 15	highlight_color = [255, 0, 0]	},
+		{ name = "weapon_ump45"			entity = "weapon_ump45"								default_ammo = 16	security_door_value = 15	highlight_color = [255, 0, 0]	},
+		{ name = "weapon_p90"			entity = "weapon_p90"								default_ammo = 16	security_door_value = 15	highlight_color = [255, 0, 0]	},
+		{ name = "weapon_mp5sd"			entity = "weapon_mp5sd"								default_ammo = 22	security_door_value = 15	highlight_color = [255, 0, 0]	},
 
 		// shotguns
-		{ name = "weapon_nova"			entity = "weapon_nova"								default_ammo = 15	security_door_value = 20	highlight_color = [255, 0, 0]	},
-		{ name = "weapon_sawedoff"		entity = "weapon_sawedoff"							default_ammo = 15	security_door_value = 20	highlight_color = [255, 0, 0]	},
-		{ name = "weapon_mag7"			entity = "weapon_mag7"								default_ammo = 15 	security_door_value = 20	highlight_color = [255, 0, 0]	},
-		{ name = "weapon_xm1014"		entity = "weapon_xm1014"							default_ammo = 10	security_door_value = 20	highlight_color = [255, 0, 0]	},
+		{ name = "weapon_nova"			entity = "weapon_nova"								default_ammo = 15	security_door_value = 15	highlight_color = [255, 0, 0]	},
+		{ name = "weapon_sawedoff"		entity = "weapon_sawedoff"							default_ammo = 15	security_door_value = 15	highlight_color = [255, 0, 0]	},
+		{ name = "weapon_mag7"			entity = "weapon_mag7"								default_ammo = 15 	security_door_value = 15	highlight_color = [255, 0, 0]	},
+		{ name = "weapon_xm1014"		entity = "weapon_xm1014"							default_ammo = 10	security_door_value = 15	highlight_color = [255, 0, 0]	},
 
 		// ARs
-		{ name = "weapon_galilar"		entity = "weapon_galilar"							default_ammo = 20	security_door_value = 30	highlight_color = [255, 0, 0]	},
-		{ name = "weapon_famas"			entity = "weapon_famas"								default_ammo = 20	security_door_value = 30	highlight_color = [255, 0, 0]	},
-		{ name = "weapon_ak47"			entity = "weapon_ak47"								default_ammo = 15	security_door_value = 30	highlight_color = [255, 0, 0]	},
-		{ name = "weapon_m4a1"			entity = "weapon_m4a1"								default_ammo = 20	security_door_value = 30	highlight_color = [255, 0, 0]	},
-		{ name = "weapon_m4a1_silencer"	entity = "weapon_m4a1_silencer"						default_ammo = 16	security_door_value = 30	highlight_color = [255, 0, 0]	},
-		{ name = "weapon_aug"			entity = "weapon_aug"								default_ammo = 9 	security_door_value = 30	highlight_color = [255, 0, 0]	},
-		{ name = "weapon_sg556"			entity = "weapon_sg556"								default_ammo = 9 	security_door_value = 30	highlight_color = [255, 0, 0]	},
+		{ name = "weapon_galilar"		entity = "weapon_galilar"							default_ammo = 20	security_door_value = 25	highlight_color = [255, 0, 0]	},
+		{ name = "weapon_famas"			entity = "weapon_famas"								default_ammo = 20	security_door_value = 25	highlight_color = [255, 0, 0]	},
+		{ name = "weapon_ak47"			entity = "weapon_ak47"								default_ammo = 15	security_door_value = 25	highlight_color = [255, 0, 0]	},
+		{ name = "weapon_m4a1"			entity = "weapon_m4a1"								default_ammo = 20	security_door_value = 25	highlight_color = [255, 0, 0]	},
+		{ name = "weapon_m4a1_silencer"	entity = "weapon_m4a1_silencer"						default_ammo = 16	security_door_value = 25	highlight_color = [255, 0, 0]	},
+		{ name = "weapon_aug"			entity = "weapon_aug"								default_ammo = 9 	security_door_value = 25	highlight_color = [255, 0, 0]	},
+		{ name = "weapon_sg556"			entity = "weapon_sg556"								default_ammo = 9 	security_door_value = 25	highlight_color = [255, 0, 0]	},
 
 		// machine guns
-		{ name = "weapon_m249"			entity = "weapon_m249"								default_ammo = 40	security_door_value = 30	highlight_color = [255, 0, 0]	},
+		{ name = "weapon_m249"			entity = "weapon_m249"								default_ammo = 40	security_door_value = 25	highlight_color = [255, 0, 0]	},
 
 		// snipers
-		{ name = "weapon_awp"			entity = "weapon_awp"								default_ammo = 2	security_door_value = 50	highlight_color = [255, 0, 0]	},
-		{ name = "weapon_ssg08"			entity = "weapon_ssg08"								default_ammo = 5	security_door_value = 50	highlight_color = [255, 0, 0]	},
-		{ name = "weapon_scar20"		entity = "weapon_scar20"							default_ammo = 4	security_door_value = 50	highlight_color = [255, 0, 0]	},
-		{ name = "weapon_g3sg1"			entity = "weapon_g3sg1"								default_ammo = 4	security_door_value = 50	highlight_color = [255, 0, 0]	},
+		{ name = "weapon_awp"			entity = "weapon_awp"								default_ammo = 2	security_door_value = 40	highlight_color = [255, 0, 0]	},
+		{ name = "weapon_ssg08"			entity = "weapon_ssg08"								default_ammo = 5	security_door_value = 40	highlight_color = [255, 0, 0]	},
+		{ name = "weapon_scar20"		entity = "weapon_scar20"							default_ammo = 4	security_door_value = 40	highlight_color = [255, 0, 0]	},
+		{ name = "weapon_g3sg1"			entity = "weapon_g3sg1"								default_ammo = 4	security_door_value = 40	highlight_color = [255, 0, 0]	},
 
 		// armor
 		{ name = "armor_helmet"			entity = "prop_weapon_upgrade_armor_helmet"			default_ammo = -1	security_door_value = 5 	highlight_color = [0, 110, 255]	},
@@ -297,8 +297,7 @@
 			{ chance = 1				items = [ { name = "axe"			  } ]	},
 			{ chance = 1				items = [ { name = "hammer"			  } ]	},
 			{ chance = 1				items = [ { name = "spanner"		  } ]	},
-			{ chance = 1				items = [ { name = "helmet"			  } ]	},
-			{ chance = 1				items = [ { name = "parachute"		  } ]	}
+			{ chance = 2				items = [ { name = "helmet"	}, { name = "armor"	} ] }
 		]
 
 		smallarms_crate_list =
@@ -408,10 +407,10 @@
 	[
 		{ name = "hostages"				content = "hostage_list"				quantity = 3			weight_radius = 2000		priority = 0	},
 		{ name = "safes"				content = "safe_list"					quantity = 2			weight_radius = 4000		priority = 1	},
-		{ name = "large_metal_crates"	content = "large_metal_crate"			quantity = 6			weight_radius = 1500		priority = 2	},
-		{ name = "small_metal_crates"	content = "small_metal_crate"			quantity = 10			weight_radius = 1000		priority = 2	},
+		{ name = "large_metal_crates"	content = "large_metal_crate"			quantity = 8			weight_radius = 1500		priority = 2	},
+		{ name = "small_metal_crates"	content = "small_metal_crate"			quantity = 12			weight_radius = 1000		priority = 2	},
 		{ name = "explosive_crates"		content = "explosive_crate"				quantity = 18			weight_radius = 750			priority = 2	},
-		{ name = "smallarms_crates"		content = "smallarms_crate"				quantity = 12			weight_radius = 500			priority = 2	},
+		{ name = "smallarms_crates"		content = "smallarms_crate"				quantity = 14			weight_radius = 500			priority = 2	},
 		{ name = "loose_guns"			content = "loose_gun_list"				quantity = 28			weight_radius = 250			priority = 2	},
 		{ name = "loose_melees"			content = "loose_melee_list"			quantity = 25			weight_radius = 250			priority = 2	},
 		{ name = "loose_grenades"		content = "loose_grenade_list"			quantity = 17			weight_radius = 250			priority = 2	},
