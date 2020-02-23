@@ -1,0 +1,532 @@
+[33mcommit 404b15490078b73556bd8f93f0d42806082bdce1[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Sat Feb 22 03:25:09 2020 -0500
+
+    THIS IS ITgit add --all!
+
+[33mcommit 533c87d7a3921adb1acdae029344441080e37cbf[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Sat Feb 22 00:44:15 2020 -0500
+
+    Pushing all the files before i delete all configs except my stupid 2.2 @ 400 dpi one
+
+[33mcommit e86235bf042405ef67874d0ecfe4e1509522a488[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Wed Dec 18 21:11:52 2019 -0500
+
+    Update for Dec 2019
+
+[33mcommit 5407180f77d6e9268402811387db86d19774d3ba[m
+Author: John Park <johnjp15@gmail.com>
+Date:   Thu Nov 28 01:08:16 2019 -0500
+
+    2019 turkey day update
+
+[33mcommit b1d715eb8aba55bda03dfe9e35b106d96728dc74[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Thu Jul 25 22:50:20 2019 -0400
+
+    2.2 @ 400 dpi. mine2 vm; 1280x720; thinbluenogap
+
+[33mcommit 043eae19ea7be72502c9bb4302a8af923f98bcb4[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Fri Jun 28 05:35:18 2019 -0400
+
+    1.4@400dpi with Zowie FK2. Don't change anymore. This is my true sens.
+
+[33mcommit f5e62bf321c0fb8de571a5164f5fbdaade7bd9e6[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Thu Jun 27 04:15:52 2019 -0400
+
+    update: 1024x768 4:3 BB; 1.1@800dpi; 1.0 zoom ratio, 1 sniper crosshair width, kennyS viewmodel and crosshair.
+
+[33mcommit 13516d5b6aaad051fe402e523a455111ac7e6d22[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Fri May 10 12:11:41 2019 -0400
+
+    date: 2019-05-10; sens: 1.77; zoom: 1.1; vm: shroud; xhair: shroud; res: 1920x1080
+
+[33mcommit eb2551ec001413d1ff845fa7f0cd965ce12f000f[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Fri Apr 5 18:59:07 2019 -0400
+
+    2.25 @ 400 dpi. zowie fk2, halo clear switches.
+
+[33mcommit 425c8f39895082edf2ca469ef8743384b70e3285[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Fri Mar 22 00:33:05 2019 -0400
+
+    1.7@400dpi. 1024x768 stretched.
+
+[33mcommit b1327dc320e9524eaeb82139b3648561aa8a1adf[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Thu Mar 7 22:04:06 2019 -0500
+
+    Use StereoHeadphones+HRTF. Clean up nonexisting commands.
+
+[33mcommit d7a97c5298437e04875a95fcd8ba5c462c57c1fb[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Mon Mar 4 05:56:58 2019 -0500
+
+    update
+
+[33mcommit e309cebe5045cad1e9adcb9d1a12d88dc39df042[m
+Author: John Park <johnjp15@gmail.com>
+Date:   Mon Mar 4 05:56:42 2019 -0500
+
+    update
+
+[33mcommit 1b1716013755c26e26c5b25986671d341ce73157[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Fri Feb 22 02:22:40 2019 -0500
+
+    2.09@400dpi. New cl_radar_scale bind. Saves different zoom settings for m5bind state.
+
+[33mcommit 5e426fba248e51dabd3e9a7155cafb4b8fc57c10[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Thu Feb 14 00:14:28 2019 -0500
+
+    back to zywoo's. stop changing.
+
+[33mcommit f62da92489003b015f9b4d72bcad304bd1bb207e[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Wed Feb 13 21:42:29 2019 -0500
+
+    asdf
+
+[33mcommit b8361fe93aefb1f500963b1b78a3f6994f0193fb[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Tue Feb 12 05:56:09 2019 -0500
+
+    1.77@400dpi. ZyWoo's xhair+viewmodel. 1280x960 stretched.
+
+[33mcommit 279f53f3dea886ab33ad744b063954e84f53d470[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Mon Feb 11 05:05:42 2019 -0500
+
+    Back to 1.77 @ 400 dpi. New spec crosshair. Using Xantares viewmodel. 1600x900 @ 240Hz. This is the best setting for competitive play for me.
+
+[33mcommit 08babaff11aae9c15b0e03c930043ed40b482ee3[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Sun Feb 10 02:33:40 2019 -0500
+
+    clean up
+
+[33mcommit 34c4ae06f82749fea14c6e552fbca6bc1cd95ff0[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Sun Feb 10 01:46:57 2019 -0500
+
+    Now using Xantares' sens, res, crosshair. Stop changing sens!
+
+[33mcommit 30a40b7162d7171c6ccf77872d27ff2f71cf8bd2[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Mon Jan 21 18:42:03 2019 -0500
+
+    ropz config
+
+[33mcommit 2d6cd01fac715cc36a1d0693d2eace34969984d5[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Thu Jan 3 02:49:41 2019 -0500
+
+    Update zoom ratio to 1.1
+
+[33mcommit fc49f9611b98012667a3bf4ace758b83418c91bd[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Thu Jan 3 02:39:44 2019 -0500
+
+    3 @ 400 dpi sens. 0.9 zoom ratio. coldzera viewmodel. nogap crosshair
+
+[33mcommit c12f6eb64ed783698a8fcd9913ff37f652d9445f[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Tue Jan 1 06:55:11 2019 -0500
+
+    1400x10550 @ 240 Hz. 2.1 @ 400 dpi. 1.2 zoom ratio.
+
+[33mcommit 935eede23dc48cb5dcedeab13f080ef803f56132[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Sat Dec 8 10:37:42 2018 -0500
+
+    sens: 1.86, style1 xhair, slot12 for dz
+
+[33mcommit f6702a7b88989245284b4a04dc958864db55d5c9[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Fri Dec 7 18:30:50 2018 -0500
+
+    Update.
+
+[33mcommit 440d5ac4be356580ae5aaa40e5448297ebeb0519[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Thu Oct 11 01:03:45 2018 -0400
+
+    fix
+
+[33mcommit 00ba99394f12f404c2363b359eaa47dfcb46a163[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Thu Oct 11 01:01:24 2018 -0400
+
+    Changes to  script_capslock.cfg
+
+[33mcommit 9bfe29bbc13a5d990136b80fa6a0bb9288c19915[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Mon Oct 1 14:10:08 2018 -0400
+
+    update
+
+[33mcommit 336262dedd48f5ce3813fd0178643d7dd95c0d0b[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Thu Sep 13 00:47:03 2018 -0400
+
+    Update.
+
+[33mcommit f14ed36fe1e2c4d4ebd401c5fdbff7b364c80389[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Tue Sep 11 03:55:15 2018 -0400
+
+    0.9 @ 800 dpi. 1.34 zoom sens.
+
+[33mcommit 7372e8464ea10213b75b7b3c4dc2a729c3a47801[m
+Merge: 4fcec07 5b8e983
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Fri Jul 13 23:22:35 2018 -0700
+
+    Update July 2018
+
+[33mcommit 4fcec0753b130b90b2c04095569739a80578b7de[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Fri Jul 13 23:19:03 2018 -0700
+
+    update
+
+[33mcommit 5b8e9835c34f9bb5941ca8592deeca69b873ba6e[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Thu May 31 14:32:22 2018 -0400
+
+    added thin version of blue crosshair
+
+[33mcommit c21df40388e0c010e3ccd3ada18fb59b3b3824f3[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Fri May 18 20:48:54 2018 -0400
+
+    Update.
+
+[33mcommit 32b0695bfd0e48cd6854ae3f2bc2f7836a7d829a[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Fri Mar 23 23:23:06 2018 -0400
+
+    Works for competitive.
+
+[33mcommit aca3a12c45cba20ee6a6f046266d749a0321c722[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Thu Mar 22 13:01:46 2018 -0400
+
+    2.5 sens. 1.1 zoom sens.
+
+[33mcommit af38d03a64e156ec15002875afab71e26891840b[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Fri Mar 9 17:36:19 2018 -0500
+
+    March.
+
+[33mcommit efb7b08ea89653f621f924fee46fc63158246e4c[m
+Author: johnjp15 <jjp5nw@virginia.edu>
+Date:   Mon Jan 8 14:56:49 2018 -0500
+
+    2.6 @ 400 dpi sens.
+
+[33mcommit 4511c8a7fb2cfa005f3164885ea396a9d074d18e[m
+Author: johnjp15 <jjp5nw@virginia.edu>
+Date:   Sun Dec 24 15:50:59 2017 -0500
+
+    Added mm interp settings.
+
+[33mcommit d4d9ea02408cf920b04803ff4703dc74ecc2d942[m
+Author: johnjp15 <jjp5nw@virginia.edu>
+Date:   Fri Dec 15 19:05:56 2017 -0500
+
+    Update. 1.9 @ 400 dpi, 4:3 stretched 1024x768. 1.2 zoom ratio. 1 sniper crosshair width. 54 fov viewmodel.
+
+[33mcommit b4b96ff148f727634c795b5800ee59f5d17b7c39[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Wed Oct 11 00:40:02 2017 -0400
+
+    Test.
+
+[33mcommit 9aaf20188af20857077099a496f7acdab74d1da6[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Mon Sep 4 22:35:19 2017 -0400
+
+    Update.
+
+[33mcommit 648bc4f5c350e205f655e92f5c25e43ecf564985[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Fri Sep 1 19:41:00 2017 -0400
+
+    2.1 @ 400 dpi, 1280x720, crosshair, uparrow and downarrow adjust voice_scale, leftarrow and rightarrow do +left and +right, edited snd_mixahead to lowest possible value.
+
+[33mcommit 0763226ac8f72ac23f4472c5b15729f4494025a5[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Tue Aug 29 14:02:37 2017 -0400
+
+    Push before uninstallation.
+
+[33mcommit a70d9a0367c2017bce07e0e632049721862675db[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Sat Aug 12 12:32:11 2017 -0400
+
+    New crosshair.
+
+[33mcommit d863c73462e1d5ce718acc6171d8c7093c72eea0[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Thu Aug 10 00:13:12 2017 -0400
+
+    2.1 @ 400 dpi update.
+
+[33mcommit ad72d386b4f2453ef23d56d7339e0e9def456c29[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Fri Aug 4 23:59:04 2017 -0400
+
+    Back to 1024x768 with 2.2@400dpi sensitivity.
+
+[33mcommit 13907029abe82001fced70b23946a3f339d76ee8[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Sun Jul 30 02:31:38 2017 -0400
+
+    New crosshair, default style 1.  Sens 880
+
+[33mcommit b2ea23dc2b71ea4f0e926327f1e8bba21b3992d6[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Fri Jul 21 20:10:15 2017 -0400
+
+    840 edpi commit.
+
+[33mcommit a01cf45850d245ae24ff3ec9deedca29d111fa5b[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Tue Jun 20 22:20:57 2017 -0400
+
+    1.85 @ 400 dpi sens (740 edpi).
+
+[33mcommit 6ae8c74d4c4630b5c817bab03bd249f38a366f51[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Sun Jun 18 01:17:27 2017 -0400
+
+    June update.
+
+[33mcommit 4bb53b687dcb91dda4d1442d69b6cc7eeb13dd9c[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Sat Jun 10 11:47:33 2017 -0400
+
+    Sensitivity change from 880 to 800.
+
+[33mcommit 2f5ea855dd934eea03ca4fdcbe26a93e13ca30d8[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Sat Jun 10 11:46:02 2017 -0400
+
+    New crosshair style5.
+
+[33mcommit 0110a21b1b6392146471e729a853e883afe81b5e[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Mon May 29 13:15:24 2017 -0400
+
+    New 68 FOV viewmodel. cl_crosshair_sniper_width 2. Crosshair size 3 (changed from 2).  Various new operation files.
+
+[33mcommit 37c09ded107ada71a81a30f3253a3f04b1c7ebfe[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Mon Apr 24 02:15:34 2017 -0400
+
+    Update for April.
+
+[33mcommit 44f1eef11a03c36974322d523bcf2c599a3784d8[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Sat Apr 1 03:11:22 2017 -0400
+
+    04-01-2017. Changed viewmodel fov from 68 to 54. presetpos 3 was resetting it to 68 instead of 60.
+
+[33mcommit 785716c09f952cc37471b062d6263fe2f30049c2[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Fri Mar 3 01:28:30 2017 -0500
+
+    03-02-2017 commit.
+
+[33mcommit 3a92513f0a8d9eede89aac2a15bea11e744e0e2c[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Tue Feb 21 21:47:35 2017 -0500
+
+    February update.
+
+[33mcommit b7d095212be1378053b2b5b8767276474bcab7f0[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Fri Feb 10 03:09:42 2017 -0500
+
+    800x600 launch options.
+
+[33mcommit 2eaad32ab4e1a02add0122499bf6a7f3245ecba4[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Fri Feb 10 03:09:01 2017 -0500
+
+    880 sens 1.1 zoom. 800x600 setup.
+
+[33mcommit 2793397f5d8beaed696d966f83f9702e00746198[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Sun Jan 15 04:19:50 2017 -0500
+
+    01/15/2017 update. Commit to 1.9 @ 400 dpi sens.
+
+[33mcommit 32b858a5df4bcf1b5b0676d527300a248976e0fb[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Thu Jan 12 02:44:59 2017 -0500
+
+    01/12/17 commit.
+
+[33mcommit 7269419941e8e0c31399a16c132944a1f287ff19[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Fri Dec 23 02:23:57 2016 -0500
+
+    1.1 @ 800 dpi update. Removed voice chat muter in mouse5 bind. New crosshair for 1920x1080.
+
+[33mcommit 72ef036201feb3944d5355bf7c9ae619f457f3b8[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Sat Dec 17 04:35:28 2016 -0500
+
+    +modyaw bind
+
+[33mcommit fef1bb8a4825dcda91452a226e437ca0437c5757[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Wed Nov 30 23:41:39 2016 -0500
+
+    comparecfgs folder
+
+[33mcommit af7bba08448936f92a1d1a610d090281a50df153[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Wed Nov 30 21:17:01 2016 -0500
+
+    11/30/2016 push for build pc
+
+[33mcommit 189b0558219e1d989d858d01f0f1e2a1e65dff6a[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Wed Nov 16 00:44:18 2016 -0500
+
+    Small changes, 680 sens. Keeping this one.
+
+[33mcommit 6be8851bfd8ab57fe4a5176a63be6f3d99287ba7[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Fri Nov 11 11:33:51 2016 -0500
+
+    2.2 sensitivity
+
+[33mcommit 0ed552c96a22a68a399ca11ec84e0db636ddc941[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Wed Nov 9 09:43:15 2016 -0500
+
+    1.7 @ 400 dpi sensitivity.
+
+[33mcommit 16c4b53aa89b49e4988581886388d8bc03ab5a2f[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Mon Oct 31 22:36:11 2016 -0400
+
+    Oct. 29 update.
+
+[33mcommit 95be25061a980369e6b02700b32ab88e3a3ebac2[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Mon Oct 24 16:22:56 2016 -0400
+
+    10/24/2016 commit before uninstalling.
+
+[33mcommit 79d3a4c8aa9c527d3b85285d584d8315a5d2e362[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Sat Oct 15 15:01:46 2016 -0400
+
+    Sensitivity change to 1.3 with 1.2 zoom ratio.
+
+[33mcommit 058671a62d0c92ff1cfb43dd90a2f0f77cd778e7[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Wed Oct 12 03:24:54 2016 -0400
+
+    Various changes.
+
+[33mcommit 271995f906b9deceb7b525d227a3c0486e53ce81[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Tue Sep 27 10:10:26 2016 -0400
+
+    Changes to viewmodel, zoom sens, fixes.
+    
+    Added new viewmodel_mine4.cfg (moves gun to the right side).
+    zoom_sensitivity_ratio_mouse 1.15 (from 1.1).  Fixed script_capslock.cfg
+    to work for armor.
+
+[33mcommit a932b602d354f6208fd4cc5ef5778e9c60745daa[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Wed Sep 7 22:49:35 2016 -0400
+
+    New sensitivity, crosshair, script.
+    
+    Moved +capslock script into its own file, script_capslock.cfg; added
+    more binds for guns and vesthelm. Changed sensitivity from 2.19 or 2.2
+    or 2.1 to 1.7.  Added new red crosshair, same size as nogap.  Changed
+    cl_crosshairalpha to 200.
+
+[33mcommit d9415da79e241a19c55bc38fbb29f6861739f157[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Sun Sep 4 00:48:02 2016 -0400
+
+    New sens: 2.1.  Added new volume_inc script for footsteps for mouse5.
+
+[33mcommit ee52fa86333d43309e68265fe66e51c1a588d44e[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Sun Aug 28 21:34:07 2016 -0400
+
+    New sens and +djump key
+    
+    Returned back to 2.2 @ 400 dpi sensitivity with 1.1 zoom ratio. Added
+    new small crosshair file, not in use. Updated +crosshairsmoke to always
+    revert back to current crosshair without manual change on every
+    crosshair switch done using exec_current_crosshair alias.  Binded n to
+    +djump, no more toggle. alias togglejump is not in use.
+
+[33mcommit b382bc6ff110b7adbde5ebdb279f793f4f5f56f8[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Tue Aug 23 00:06:18 2016 -0400
+
+    Crosshair change. Added gap and dimmed. +radar fix.
+
+[33mcommit 873afa7005c751ce37b17ffcc272e6a8c02c6fd6[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Fri Aug 19 05:17:25 2016 -0400
+
+    Polished few lines and added credit for BananaGaming
+
+[33mcommit 7abe78fd607992f4259912405852d8e04026d818[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Fri Aug 19 05:08:04 2016 -0400
+
+    Added grenade binds.
+    
+    Added aliases for all grenade use commands. Also added individual binds
+    for z, x, c, v, and 6 keys to map to their new respective aliases.
+
+[33mcommit f4b709e8d36cec7f09069840e05e1c6ab71be1a9[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Fri Aug 19 05:05:20 2016 -0400
+
+    Multiple changes
+    
+    autoexec: reorganized; raised zoom ratio to 1.2 | buy_binds: added new
+    grenade buy script with capslock modifier | config_jp: edited ALT key
+    for +voicerecord | scripts: edited +radar script, binded h, changed
+    togglejump key from m to n | teleportation_withundo: removed sounds
+
+[33mcommit 4bda26cd68f2f14c116ff422a3929a6f42c10b3b[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Sun Aug 14 03:00:56 2016 -0400
+
+    Lowered zoom ratio and edited viewmodel.
+    
+    Lowered zoom_sensitivity_ratio_mouse from 1.15 to 1.1.  Added new
+    viewmodel file for viewmodel_offset_x change from 0.5 to 1.
+
+[33mcommit 934e2b17761a33fee3528a93822e21aa87fb0528[m
+Author: johnjp15 <johnjp15@gmail.com>
+Date:   Mon Aug 8 07:05:25 2016 -0400
+
+    First commit.
+    
+    All config cfg files for my CSGO settings as of 08-08-2016.
