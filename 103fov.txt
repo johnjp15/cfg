@@ -1,0 +1,17 @@
+1.676229741 ~= 409/244
+via Rationalize[1.676229741, 0.000001]
+
+https://www.wolframalpha.com/input/?i=Rationalize%5B1.676229741%2C+0.000001%5D
+
+
+var radAngle = cam.fieldOfView * Mathf.Deg2Rad;
+var radHFOV = 2 * Math.Atan(Mathf.Tan(radAngle / 2) * cam.aspect);
+var hFOV = Mathf.Rad2Deg * radHFOV;
+
+Resolutions:
+
+1636x976
+1227x732c
+
+
+https://forum.unity.com/threads/how-to-calculate-horizontal-field-of-view.16114/
