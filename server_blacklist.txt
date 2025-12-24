@@ -1,9 +1,0 @@
-"serverblacklist"
-{
-	"server"
-	{
-		"name"		"[GFLClan.com] AWP 24/7 | No Bhop | !WS !KNIFE !GLOVES"
-		"date"		"1593387073"
-		"addr"		"92.119.148.0:27015"
-	}
-}
