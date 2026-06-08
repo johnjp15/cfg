@@ -1,0 +1,75 @@
+[Console] "                                     =============================================================================================                                     "
+[Console] "                                     =        ==       ====      ===  ====  ==        =====  =====  ====  ==        ==  =======  =                                     "
+[Console] "                                     =  ========  ====  ==  ====  ==  ====  ==  ==========    ====  ====  ==  ========   ======  =                                     "
+[Console] "                                     =  ========  ====  ==  ====  ==  ====  ==  =========  ==  ===  ====  ==  ========    =====  =                                     "
+[Console] "                                     =  ========  ====  ===  =======  ====  ==  ========  ====  ==  ====  ==  ========  ==  ===  =                                     "
+[Console] "                                     =      ====       ======  =====        ==      ====  ====  ==   ==   ==      ====  ===  ==  =                                     "
+[Console] "                                     =  ========  =============  ===  ====  ==  ========        ===  ==  ===  ========  ====  =  =                                     "
+[Console] "                                     =  ========  ========  ====  ==  ====  ==  ========  ====  ===  ==  ===  ========  =====    =                                     "
+[Console] "                                     =  ========  ========  ====  ==  ====  ==  ========  ====  ====    ====  ========  ======   =                                     "
+[Console] "                                     =  ========  =========      ===  ====  ==        ==  ====  =====  =====        ==  =======  =                                     "
+[Console] "                                     =============================================================================================                                     "
+[Console] "                  ==================================================================================================================================                   "
+[Console] "                  ===     ====      ======   ==========      ====        ==  =======  ====     ===  ====  ==  =====  =====  =====       ===  ====  =                   "
+[Console] "                  ==  ===  ==  ====  ===   =   ========  ===  ===  ========   ======  ===  ===  ==  ====  ==   ===   ====    ====  ====  ==  ===  ==                   "
+[Console] "                  =  ========  ====  ==   ===   =======  ====  ==  ========    =====  ==  ========  ====  ==  =   =  ===  ==  ===  ====  ==  ==  ===                   "
+[Console] "                  =  =========  ============   ========  ===  ===  ========  ==  ===  ==  ========  ====  ==  == ==  ==  ====  ==  ===   ==  =  ====                   "
+[Console] "                  =  ===========  =========   =========      ====      ====  ===  ==  ==  ========        ==  =====  ==  ====  ==      ====     ====                   "
+[Console] "                  =  =============  ======   ==========  ===  ===  ========  ====  =  ==  ========  ====  ==  =====  ==        ==  ====  ==  ==  ===                   "
+[Console] "                  =  ========  ====  ====   ===========  ====  ==  ========  =====    ==  ========  ====  ==  =====  ==  ====  ==  ====  ==  ===  ==                   "
+[Console] "                  ==  ===  ==  ====  ===   ============  ===  ===  ========  ======   ===  ===  ==  ====  ==  =====  ==  ====  ==  ====  ==  ====  =                   "
+[Console] "                  ===     ====      ===        ========      ====        ==  =======  ====     ===  ====  ==  =====  ==  ====  ==  ====  ==  ====  =                   "
+[Console] "                  ==================================================================================================================================                   "
+[Console] "                  >>>>>>>>>>>>>>>>>>>>>>>>>                     fpsheaven.com || twitter.com/frequencycs                    <<<<<<<<<<<<<<<<<<<<<<<<                   "
+[Console] "                                                                                                                                                                       "
+[Console] "                                                       ######  #     #       #    #     #  #####  ####### #                                                            "
+[Console] "                                                       #     #  #   #       # #   ##    # #     # #       #                                                            "
+[Console] "                                                       #     #   # #       #   #  # #   # #       #       #                                                            "
+[Console] "                                                       ######     #       #     # #  #  # #  #### #####   #                                                            "
+[Console] "                                                       #     #    #       ####### #   # # #     # #       #                                                            "
+[Console] "                                                       #     #    #       #     # #    ## #     # #       #                                                            "
+[Console] "                                                       ######     #       #     # #     #  #####  ####### #######                                                      "
+[Console] "                                                                                                                                                                       "
+[Console] "                  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>      steamcommunity.com/id/AnnGell88 || twitter.com/Angel_foxxo      <<<<<<<<<<<<<<<<<<<<<<<<<<<<<                   "
+[Console] "                                                                                                                                                                       "
+[Console] Disconnecting in order to print performance results in:
+[Console] 3
+[Console] 2
+[Console] 1
+[Console] Enabling flag 'donotecho' on channel 'Console'.
+[VProf] 
+[VProf] -- Performance report --
+[VProf] Summary of 87949 frames and 123 1-second intervals.  (6091 frames excluded from analysis.)
+[VProf] FPS: Avg=715.8, P1=246.8
+[VProf] 
+[VProf]                         All frames         Active frames       1s max (all)      1s max (active)  
+[VProf]                           Avg    P99        N    Avg    P99      P50    P95        N    P50    P95
+[VProf] ---------------------- ------ ------   ------ ------ ------   ------ ------   ------ ------ ------
+[VProf]             FrameTotal   1.40   4.05    87949   1.40   4.05     4.62   5.54      123   4.62   5.54
+[VProf]       Client Rendering   0.88   1.40    87949   0.88   1.40     1.51   2.10      123   1.51   2.10
+[VProf]         Frame Boundary   0.57   1.06    87949   0.57   1.06     1.17   1.84      123   1.17   1.84
+[VProf]      Client Simulation   0.20   0.70    87949   0.20   0.70     0.83   1.08      123   0.83   1.08
+[VProf]    ClientSimulateFrame   0.17   0.52    87949   0.17   0.52     0.61   0.81      123   0.61   0.81
+[VProf]      Server Simulation   0.12   1.81     7863   1.38   2.40     2.16   2.80      123   2.16   2.80
+[VProf]            Server Game   0.10   1.55     7863   1.14   1.99     1.91   2.54      123   1.91   2.54
+[VProf]            Unaccounted   0.06   0.24    87949   0.06   0.24     0.43   0.58      123   0.43   0.58
+[VProf]                    HUD   0.06   0.20    87949   0.06   0.20     0.42   0.55      123   0.42   0.55
+[VProf]           UserCommands   0.04   0.53     7863   0.42   0.91     0.92   1.16      123   0.92   1.16
+[VProf]     ClientSimulateTick   0.03   0.45     7863   0.30   0.56     0.55   0.74      123   0.55   0.74
+[VProf]       Server Animation   0.02   0.23     7863   0.20   0.52     0.51   0.67      123   0.51   0.67
+[VProf]                   NPCs   0.01   0.18     7863   0.16   0.34     0.41   0.61      123   0.41   0.61
+[VProf] Server Send Networking   0.01   0.16     7863   0.14   0.29     0.35   0.52      123   0.35   0.52
+[VProf]             Networking   0.01   0.14     7867   0.13   0.29     0.29   0.51      123   0.29   0.51
+[VProf]     InterpolationLatch   0.01   0.11     7863   0.10   0.22     0.23   0.43      123   0.23   0.43
+[VProf]         SoundOperators   0.01   0.20     5115   0.14   0.32     0.26   0.56      123   0.26   0.56
+[VProf] 
+[VProf] VProfLite stopped.
+[BuildSparseShadowTree] CSparseShadowTreeGameSystem::GameShutdown
+[ResourceSystem] Failed loading resource "panorama/images/map_icons/screenshots/720p/de_canals_png.vtex_c" (ERROR_FILEOPEN: File not found)
+[Prediction] Prediction time (132.593750) is ahead of sim time (0.015625) by excessive amount (132.578125)?  Clamping offset
+[Prediction] Prediction time (132.593750) is ahead of sim time (0.015625) by excessive amount (132.578125)?  Clamping offset
+[Prediction] Prediction time (132.593750) is ahead of sim time (1.078125) by excessive amount (131.515625)?  Clamping offset
+[Prediction] Prediction time (132.593750) is ahead of sim time (1.093750) by excessive amount (131.500000)?  Clamping offset
+[Prediction] Resetting prediction state because we received a full update
+[Prediction] Added prediction for player slot 0 (:/)
+[Prediction] Scanned 97 entities, activated prediction for 1, total predictable entities now 1
